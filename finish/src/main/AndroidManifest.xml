@@ -17,9 +17,9 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="org.tensorflow.lite.examples.classification">
-
-    <!-- Make sure the device has a camera. If you use android.hardware.camera without .any,
+    package="org.tensorflow.lite.examples.plantie">
+<!--    package="org.tensorflow.lite.examples.classification"-->
+<!-- Make sure the device has a camera. If you use android.hardware.camera without .any,
     it will not work if you have a device without a back camera, such as most Chromebooks. -->
     <uses-feature android:name="android.hardware.camera.any" />
 

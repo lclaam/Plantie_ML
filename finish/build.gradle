@@ -26,7 +26,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "org.tensorflow.lite.examples.classification"
+        applicationId "org.tensorflow.lite.examples.plantie"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1

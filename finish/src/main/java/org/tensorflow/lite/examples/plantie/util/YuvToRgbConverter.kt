@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.tensorflow.lite.examples.classification.util
+package org.tensorflow.lite.examples.plantie.util
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -26,7 +26,7 @@ import android.renderscript.Element
 import android.renderscript.RenderScript
 import android.renderscript.ScriptIntrinsicYuvToRGB
 import android.renderscript.Type
-import org.tensorflow.lite.examples.classification.BuildConfig
+import org.tensorflow.lite.examples.plantie.BuildConfig
 import java.nio.ByteBuffer
 
 /**
