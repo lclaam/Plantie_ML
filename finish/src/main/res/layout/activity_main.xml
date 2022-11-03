@@ -31,12 +31,12 @@
 
         </androidx.camera.view.PreviewView>
 
-        <Button
-            android:id="@+id/identitfy_flower"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:insetLeft="290dp"
-            android:text="Identitfy Flower" />
+<!--        <Button-->
+<!--            android:id="@+id/identitfy_flower"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:insetLeft="290dp"-->
+<!--            android:text="Identitfy Flower" />-->
 
         <androidx.appcompat.widget.Toolbar
             android:id="@+id/toolbar"
